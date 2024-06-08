@@ -1,0 +1,24 @@
+.hlavicka {
+  width: 100%;
+  height: 500px;
+  background-image: url(obrazky/hlavicka.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+}
+
+.headerLink {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #072e3db3;
+  width: calc(100% / 5);
+
+}
+
+.headerLink a:hover,
+.headerLink a:focus,
+.headerLink a:active {
+  background-color: #223f58;
+}
