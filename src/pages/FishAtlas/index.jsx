@@ -1,6 +1,8 @@
 import './style.css';
 import { Header } from '../../Components/Header';
 import { Footer } from '../../Components/Footer';
+import { Link } from 'react-router-dom';
+
 export const FishAtlas = () => {
   return (
     <>
@@ -58,7 +60,7 @@ export const FishAtlas = () => {
             <img src="obrazky/1zoloti-rybki.jpg" alt="Zlata rybka" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="zlatarybka.html">ZLATÉ RYBKY</a>
+                <Link to="/FishAtlas/zlatarybka">ZLATÉ RYBKY</Link>
               </span>
             </p>
           </div>
@@ -66,7 +68,7 @@ export const FishAtlas = () => {
             <img src="obrazky/2hupiki.jpg" alt="Živorodky" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="gupi.html">ŽIVORODKY (Gupka)</a>
+                <Link to="/FishAtlas/gupi">ŽIVORODKY (Gupka)</Link>
               </span>
             </p>
           </div>
@@ -75,7 +77,7 @@ export const FishAtlas = () => {
             <img src="obrazky/3daniki.jpg" alt="Danio" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="danio.html">DÁNIO PRUHOVÉ</a>
+                <Link to="/FishAtlas/danio">DÁNIO PRUHOVÉ</Link>
               </span>
             </p>
           </div>
@@ -84,7 +86,7 @@ export const FishAtlas = () => {
             <img src="obrazky/4ternetsii.jpg" alt="Tetra glofish" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="glofis.html">TETRA GLOFISH</a>
+                <Link to="/FishAtlas/glofis">TETRA GLOFISH</Link>
               </span>
             </p>
           </div>
@@ -93,7 +95,7 @@ export const FishAtlas = () => {
             <img src="obrazky/5neon.jpg" alt="Tetra neonová" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="neon.html">NEONKA OBECNÁ (Tetra neonová)</a>
+                <Link to="/FishAtlas/neon">NEONKA OBECNÁ (Tetra neonová)</Link>
               </span>
             </p>
           </div>
@@ -102,7 +104,7 @@ export const FishAtlas = () => {
             <img src="obrazky/6skaljarija-bila.jpg" alt="Skalára" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="skalara.html">SKALÁRA</a>
+                <Link to="/FishAtlas/skalara">SKALÁRA</Link>
               </span>
             </p>
           </div>
@@ -111,7 +113,7 @@ export const FishAtlas = () => {
             <img src="obrazky/7pivnyk.jpg" alt="Bojovnice pestrá" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="pivnyk.html">BOJOVNICE PESTRÁ</a>
+                <Link to="/FishAtlas/pivnyk">BOJOVNICE PESTRÁ</Link>
               </span>
             </p>
           </div>
@@ -120,7 +122,7 @@ export const FishAtlas = () => {
             <img src="obrazky/8mecenosci.jpg" alt="Mečovky" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="mecovky.html">MEČOVKY</a>
+                <Link to="/FishAtlas/mecovky">MEČOVKY</Link>
               </span>
             </p>
           </div>
@@ -129,7 +131,7 @@ export const FishAtlas = () => {
             <img src="obrazky/9molineziki.jpg" alt="Black molly" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="molinezii.html">BLACK MOLLY</a>
+                <Link to="/FishAtlas/molinezii">BLACK MOLLY</Link>
               </span>
             </p>
           </div>
