@@ -5,10 +5,22 @@
     "name": "Karas zlatý",
     "latinName": "Carassius auratus",
     "imgUrl": "/img/1zoloti-rybki.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["Zlaté rybky nemají žaludek, namísto toho se o trávení starají další orgány, které postupně vstřebají potřebné živiny.",
-                 "Zlaté rybky mají paměti po dobu nejméně tří měsíců a dokážou rozeznávat tvary, barvy a zvuky.",
-                 ""
+    "description": [
+                   "Již od časů starověké Číny chovali lidé po tisíce let různé odrůdy kaprovitých ryb, jako je Karas zlatý.To bylo poprvé zaznamenáno za dynastie Ťin (265–420).V období říše Tchang (618–907) byli kapři s oblibou chováni v okrasných jezírkách a vodních zahradách.",
+                   "Karas zlatý má vysoké zploštělé tělo s tuhými šupinami, mírně vyklenutou hřbetní ploutví a nemá vousky kolem tlamy. Pohlavně dospělé samičky mají kulatější bříška.",
+                    "Karas zlatý je společenský živočich a vykazuje při svém chování takzvanou inteligenci hejna. Tyto ryby si jako skupina i jako jedinci počínají v souladu s přirozeným chováním kaprovitých ryb. Díky své přizpůsobivosti vykazují při krmení, rozmnožování a unikání před predátory různorodé chování, jež přispívá k jejich úspěšnému přežití. Jejich vzájemné chování lze označit jako „přátelské“.",
+                    "Krmivo určené specificky pro karasy zlaté má méně bílkovin a více sacharidů než běžné krmení pro ryby. Chovatelé mohou tuto stravu doplnit loupaným hráškem, blanšírovanou listovou zeleninou a pakomáry. Mladým rybkám prospívá přídavek žábronožek. Tak jako u všech živočichů jsou i chutě karasů zlatých různé.",
+                    "Stejně jako většina druhů v kaprové rodině, zlatá rybka produkuje velké množství odpadu jak ve svých výkalech, tak prostřednictvím svých žaber a uvolňuje škodlivé chemikálie do vody. K hromadění tohoto odpadu na toxickou úroveň může dojít v relativně krátkém časovém období a může snadno způsobit smrt zlaté rybky. Aktivní provzdušňování pomocí vodního čerpadla, filtru nebo fontány je nutné.",
+                    "Zlatá rybka může žít v nevyhřívaných akváriích při teplotě pohodlné pro člověka. Avšak rychlé změny teploty, je mohou zabít, zejména pokud je nádrž malá. Při přidávání vody je třeba dbát opatrnosti, protože nová voda může mít jinou teplotu. Teploty pod asi 10 °C jsou nebezpečné pro ozdobné odrůdy. Mimořádně vysoké teploty (nad 30 °C) mohou také poškodit zlatou rybku. Vyšší teploty však mohou pomoci bojovat proti protozoálním napadení tím, že urychlují životní cyklus parazita a tím je rychleji eliminují. Optimální teplota pro zlatou rybku je mezi 20 °C a 22 °C.",
+                    "Stejně jako všechny ryby, zlatá rybka nemá ráda hlazení. Dotknutí se zlaté rybky může ve skutečnosti ohrozit její zdraví, protože může způsobit poškození nebo odstranění ochranného slizového kabátu a vystavit kůži ryb infekci bakteriemi nebo vodními parazity.",
+                    "Pokud zůstane ve tmě po určitou dobu, zlatá rybka postupně mění barvu, dokud není téměř šedá. Zlatá rybka produkuje pigment v reakci na světlo, podobně jako se lidská kůže opálí na slunci. Ryby mají buňky zvané chromatofóry, které produkují pigmenty odrážející světlo a dávají rybám zbarvení. Barva zlaté rybky je určena tím, které pigmenty jsou v buňkách, kolik molekul pigmentu existuje a zda je pigment seskupen uvnitř buňky nebo je rozložen v cytoplazmě.",
+                    "Protože zlaté rybky jedí živé rostliny, může být jejich přítomnost v osázeném akváriu problematická. Kolem zlatých ryb může přežít pouze několik druhů rostlin akvária (například Cryptocoryne a Anubias), ale vyžadují zvláštní pozornost, aby nebyly vykořeněny. Plastové rostliny jsou odolnější.",
+                    "Zlaté rybky držené v miskách nebo „mini-akváriích“ trpí smrtí, nemocemi a omračováním, především v důsledku nízkého obsahu kyslíku a velmi vysokých hladin amoniaku / dusitanu v takovém prostředí. Ve srovnání s jinými běžnými akvarijními rybami mají zlaté rybky vysokou potřebu kyslíku a produkují velké množství odpadu; proto potřebují k prosperitě značný objem dobře filtrované vody. Kromě toho mají všechny odrůdy zlaté rybky celkovou délku 12,7 cm , přičemž některá plemena často přesahují 30,5 cm.",
+                    ],
+    "funFacts": [
+                 "Zlaté rybky nemají žaludek, namísto toho se o trávení starají další orgány, které postupně vstřebají potřebné živiny.",
+                 "Zlaté rybky mají paměť po dobu nejméně tří měsíců a dokážou rozeznávat tvary, barvy a zvuky.",
+                 "Zlaté rybky nemohou zavřít oči, ale přesto mohou spát."
                 ]
   },
   {
@@ -17,8 +29,17 @@
     "name": "Živorodka duhová",
     "latinName":"Poecilia reticulata",
     "imgUrl": "/img/2hupiki.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Lidový název „paví oko/očko“ je odvozen od charakteristické kresby divokých forem. Její starší název „gupka“ (z ang. Guppy) pochází od příjmení anglického vědce Roberta Johna Lechmere Guppyho (1836–1916).",
+                    "Živorodka duhová je malá rybka (samice měří kolem 6 cm, samec měří 3–4 cm), dnes se chová v mnoha zemích jako oblíbená akvarijní ryba. Je schopna žít i ve slané vodě, jedinci ze slané vody však nejsou schopni vyrovnat osmotický tlak a tudíž ve sladké vodě již nepřežívají.",
+                    "Jde o ideální rybu pro začínající akvaristy, jelikož její chov je nenáročný a bez větších problémů se rychle množí. Díky šlechtění existuje několik barevných i tvarových variant samečků. Živorodka duhová je klidná ryba, neagresivní, a proto se může chovat ve společnosti jiných neagresivních ryb. Její přidání do akvária s agresivními rybami se však nedoporučuje, kvůli možnému zranění. V době tření by mělo akvárium také obsahovat hustý rostlinný porost, kam by se mohla samička v případě nutnosti následně ukrýt. Po vylíhnutí jiker je vhodné samečka oddělit, přestože samečci na mladé ryby zpravidla neútočí.",
+                    "Rozmnožuje se velice snadno, jako většina živorodek (rodí živá mláďata). Samička je schopná mít v jednom vrhu až 100 mladých, avšak málokdy, většinou jen 20 – 40. Po jednom oplodnění samcem může rodit 3x – 4x. Samečci pohlavně dospívají asi ve dvou měsících, samičky zhruba po třech. Po asi čtyřech týdnech samička rodí mláďata. Hned po narození klesá potěr ke dnu, kde se mu naplní plynový měchýřek, a může tak začít hned plavat. Potěr do 6 týdnů doroste velikosti, kdy se může vrátit do akvária s velikými rybami",
+                    "Jídelníček živorodek duhových by měl být pestrý. Velice se osvědčila sušená strava (tzv. vločky), živou stravu tvoří pak např. červené pakomáří larvy (tzv. patentky), komáří larvy, komáři, mušky, mšice; či třeba vařený žloutek (opatrně, jen na prst).",
+                    "Minimální požadavky na nádrž jsou 20 litrů pro 1 samce a 2 samice, živorodky nikdy nechováme osamotě. Větší nádrž je ale lepší. Pokud je to možné, vždy chováme více samiček. Dá se chovat v malých nádržích bez škodlivých následků pro vzrůst jedinců a jejich nádherných barev."],
+    "funFacts": [
+                 "V přírodě je nesmírně užitečná, neboť požírá larvy komára rodu Anopheles, přenášejícího malárii.",
+                 "Živorodka duhová je jedna z prvních ryb, u které byl doložen vliv sociálního učení a kulturní dědičnosti na výběr partnera. ", 
+                 "Živorodka duhová požírá své larvy, je nutné je vždy odělit."]
   },
   {
     "id": 3,
