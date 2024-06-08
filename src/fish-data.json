@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "fishSlug": "/FishAtlas/zlatarybka",
+    "name": "Karas zlatý",
+    "latinName": "Carassius auratus",
+    "imgUrl": "/img/1zoloti-rybki.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["Zlaté rybky nemají žaludek, namísto toho se o trávení starají další orgány, které postupně vstřebají potřebné živiny.",
+                 "Zlaté rybky mají paměti po dobu nejméně tří měsíců a dokážou rozeznávat tvary, barvy a zvuky.",
+                 ""
+                ]
+  },
+  {
+    "id": 2,
+    "fishSlug": "/FishAtlas/gupi",
+    "name": "Živorodka duhová",
+    "latinName":"Poecilia reticulata",
+    "imgUrl": "/img/2hupiki.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 3,
+    "fishSlug": "/FishAtlas/danio",
+    "name": "Dánio pruhované",
+    "latinName":"Brachydanio rerio",
+    "imgUrl": "/img/3daniki.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 4,
+    "fishSlug": "/FishAtlas/glofis",
+    "name": "Tetra GloFish",
+    "latinName":"",
+    "imgUrl": "/img/4ternetsii.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 5,
+    "fishSlug": "/FishAtlas/neon",
+    "name": "Neonka obecná",
+    "latinName": "Paracheirodon innesi",
+    "imgUrl": "/img/5neon.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 6,
+    "fishSlug": "/FishAtlas/skalara",
+    "name": "Skalára",
+    "latinName": "Pterophyllum",
+    "imgUrl": "/img/6skaljarija-bila.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 7,
+    "fishSlug": "/FishAtlas/pivnyk",
+    "name": "Bojovnice pestrá",
+    "latinName": "Betta splendens",
+    "imgUrl": "/img/7pivnyk.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 8,
+    "fishSlug": "/FishAtlas/mecovky",
+    "name": "Mečovka mexická",
+    "latinName":"Xiphophorus hellerii",
+    "imgUrl": "/img/8mecenosci.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  },
+  {
+    "id": 9,
+    "fishSlug": "/FishAtlas/molinezii",
+    "name": "Živorodka ostrotlamá",
+    "latinName": "Poecilia sphenops",
+    "imgUrl": "/img/9molineziki.jpg",
+    "description": ["", "", ""],
+    "funFacts": ["", "", ""]
+  }
+
+]

@@ -7,7 +7,7 @@ export const HomePage = () => {
       <Header />
       <section clclassName="orybach" id="orybach">
         <h2>O rybách</h2>
-        <img className="foto-orybach" src="obrazky/747278.jpg" alt="O rybach" />
+        <img className="foto-orybach" src="img/747278.jpg" alt="O rybach" />
         <p>
           <strong>Akvária a zrak.</strong>
           „Pohled na pěkné akvárium je velmi uklidňující pro duši, a pokud je

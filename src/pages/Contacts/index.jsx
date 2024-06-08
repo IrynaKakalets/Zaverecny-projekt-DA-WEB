@@ -8,7 +8,7 @@ export const Contacts = () => {
       <section className="kontakt" id="kontakt">
         <h2>Oficiální kontakt</h2>
 
-        <img className="foto-kontakt" src="obrazky/kontakt.jpg" alt="Kontakt" />
+        <img className="foto-kontakt" src="img/kontakt.jpg" alt="Kontakt" />
 
         <h4>
           Obě radi vzděláváme se a potkali jsme na DA Web. Baví nás
@@ -32,13 +32,13 @@ export const Contacts = () => {
 
         <a href="https://www.linkedin.com/in/iryna-kakalets">
           <img
-            src="obrazky/linkedin.png"
+            src="img/linkedin.png"
             alt="Linkedin"
             className="tech-logo"
           />
         </a>
         <a href="https://github.com/IrynaKakalets">
-          <img src="obrazky/github.png" alt="Github" className="tech-logo" />
+          <img src="img/github.png" alt="Github" className="tech-logo" />
         </a>
 
         <p>Mobil: +420 778 583 618</p>
@@ -61,13 +61,13 @@ export const Contacts = () => {
 
         <a href="https://www.linkedin.com">
           <img
-            src="obrazky/linkedin.png"
+            src="img/linkedin.png"
             alt="Linkedin"
             className="tech-logo"
           />
         </a>
         <a href="https://github.com/cyberHoof">
-          <img src="obrazky/github.png" alt="Github" className="tech-logo" />
+          <img src="img/github.png" alt="Github" className="tech-logo" />
         </a>
 
         <p>Mobil: +420 776 072 292</p>

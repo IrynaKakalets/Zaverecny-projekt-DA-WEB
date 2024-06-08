@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 * {
   box-sizing: border-box;
@@ -147,20 +147,20 @@ section {
 
 /*LOGO*/
 
-.tech-logo {
+/* .tech-logo {
   width: 3em;
   height: 3em;
   margin-left: 50px;
-}
+} */
 
 /* FOTOGALERIE */
-
+/* 
 .fotogalerie {
   margin-left: 20px;
   margin-top: 40px;
-}
+} */
 
-.foto img {
+/* .foto img {
   width: 100%;
   border: 2px solid #072e3db3;
 }
@@ -239,4 +239,4 @@ section {
   .foto.posledni {
     flex: 1 1 33.33333333%;
   }
-}
+} */
