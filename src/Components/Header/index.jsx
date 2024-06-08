@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 export const Header = () => {
   return (
     <nav>
-      <NavLink to="/HomePage" activeClassName="active">
+      <NavLink to="/" activeClassName="active">
         HomePage
       </NavLink>
       <NavLink to="/FishAtlas" activeClassName="active">
