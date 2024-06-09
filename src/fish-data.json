@@ -6,7 +6,7 @@
     "latinName": "Carassius auratus",
     "imgUrl": "/img/1zoloti-rybki.jpg",
     "description": [
-                   "Již od časů starověké Číny chovali lidé po tisíce let různé odrůdy kaprovitých ryb, jako je Karas zlatý.To bylo poprvé zaznamenáno za dynastie Ťin (265–420).V období říše Tchang (618–907) byli kapři s oblibou chováni v okrasných jezírkách a vodních zahradách.",
+                   "Již od časů starověké Číny chovali lidé po tisíce let různé odrůdy kaprovitých ryb, jako je Karas zlatý.To bylo poprvé zaznamenáno za dynastie Ťin (265-420).V období říše Tchang (618-907) byli kapři s oblibou chováni v okrasných jezírkách a vodních zahradách.",
                    "Karas zlatý má vysoké zploštělé tělo s tuhými šupinami, mírně vyklenutou hřbetní ploutví a nemá vousky kolem tlamy. Pohlavně dospělé samičky mají kulatější bříška.",
                     "Karas zlatý je společenský živočich a vykazuje při svém chování takzvanou inteligenci hejna. Tyto ryby si jako skupina i jako jedinci počínají v souladu s přirozeným chováním kaprovitých ryb. Díky své přizpůsobivosti vykazují při krmení, rozmnožování a unikání před predátory různorodé chování, jež přispívá k jejich úspěšnému přežití. Jejich vzájemné chování lze označit jako „přátelské“.",
                     "Krmivo určené specificky pro karasy zlaté má méně bílkovin a více sacharidů než běžné krmení pro ryby. Chovatelé mohou tuto stravu doplnit loupaným hráškem, blanšírovanou listovou zeleninou a pakomáry. Mladým rybkám prospívá přídavek žábronožek. Tak jako u všech živočichů jsou i chutě karasů zlatých různé.",
@@ -26,14 +26,14 @@
   {
     "id": 2,
     "fishSlug": "/FishAtlas/gupi",
-    "name": "Živorodka duhová",
+    "name": "Živorodka duhová - Gupka",
     "latinName":"Poecilia reticulata",
     "imgUrl": "/img/2hupiki.jpg",
     "description": [
-                    "Lidový název „paví oko/očko“ je odvozen od charakteristické kresby divokých forem. Její starší název „gupka“ (z ang. Guppy) pochází od příjmení anglického vědce Roberta Johna Lechmere Guppyho (1836–1916).",
-                    "Živorodka duhová je malá rybka (samice měří kolem 6 cm, samec měří 3–4 cm), dnes se chová v mnoha zemích jako oblíbená akvarijní ryba. Je schopna žít i ve slané vodě, jedinci ze slané vody však nejsou schopni vyrovnat osmotický tlak a tudíž ve sladké vodě již nepřežívají.",
+                    "Lidový název „paví oko/očko“ je odvozen od charakteristické kresby divokých forem. Její starší název „gupka“ (z ang. Guppy) pochází od příjmení anglického vědce Roberta Johna Lechmere Guppyho (1836-1916).",
+                    "Živorodka duhová je malá rybka (samice měří kolem 6 cm, samec měří 3-4 cm), dnes se chová v mnoha zemích jako oblíbená akvarijní ryba. Je schopna žít i ve slané vodě, jedinci ze slané vody však nejsou schopni vyrovnat osmotický tlak a tudíž ve sladké vodě již nepřežívají.",
                     "Jde o ideální rybu pro začínající akvaristy, jelikož její chov je nenáročný a bez větších problémů se rychle množí. Díky šlechtění existuje několik barevných i tvarových variant samečků. Živorodka duhová je klidná ryba, neagresivní, a proto se může chovat ve společnosti jiných neagresivních ryb. Její přidání do akvária s agresivními rybami se však nedoporučuje, kvůli možnému zranění. V době tření by mělo akvárium také obsahovat hustý rostlinný porost, kam by se mohla samička v případě nutnosti následně ukrýt. Po vylíhnutí jiker je vhodné samečka oddělit, přestože samečci na mladé ryby zpravidla neútočí.",
-                    "Rozmnožuje se velice snadno, jako většina živorodek (rodí živá mláďata). Samička je schopná mít v jednom vrhu až 100 mladých, avšak málokdy, většinou jen 20 – 40. Po jednom oplodnění samcem může rodit 3x – 4x. Samečci pohlavně dospívají asi ve dvou měsících, samičky zhruba po třech. Po asi čtyřech týdnech samička rodí mláďata. Hned po narození klesá potěr ke dnu, kde se mu naplní plynový měchýřek, a může tak začít hned plavat. Potěr do 6 týdnů doroste velikosti, kdy se může vrátit do akvária s velikými rybami",
+                    "Rozmnožuje se velice snadno, jako většina živorodek (rodí živá mláďata). Samička je schopná mít v jednom vrhu až 100 mladých, avšak málokdy, většinou jen 20 - 40. Po jednom oplodnění samcem může rodit 3x - 4x. Samečci pohlavně dospívají asi ve dvou měsících, samičky zhruba po třech. Po asi čtyřech týdnech samička rodí mláďata. Hned po narození klesá potěr ke dnu, kde se mu naplní plynový měchýřek, a může tak začít hned plavat. Potěr do 6 týdnů doroste velikosti, kdy se může vrátit do akvária s velikými rybami",
                     "Jídelníček živorodek duhových by měl být pestrý. Velice se osvědčila sušená strava (tzv. vločky), živou stravu tvoří pak např. červené pakomáří larvy (tzv. patentky), komáří larvy, komáři, mušky, mšice; či třeba vařený žloutek (opatrně, jen na prst).",
                     "Minimální požadavky na nádrž jsou 20 litrů pro 1 samce a 2 samice, živorodky nikdy nechováme osamotě. Větší nádrž je ale lepší. Pokud je to možné, vždy chováme více samiček. Dá se chovat v malých nádržích bez škodlivých následků pro vzrůst jedinců a jejich nádherných barev."],
     "funFacts": [
@@ -47,17 +47,36 @@
     "name": "Dánio pruhované",
     "latinName":"Brachydanio rerio",
     "imgUrl": "/img/3daniki.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                   "Dánio pruhované pochází z regionu řeky Gangy a je rozšířené mimo to i v severní Indii a Pákistánu. Tam se drží ve stojatých a pomalu tekoucích vodách, jako jsou malé potoky, rybníky nebo i rýžová pole. Kromě toho existují volně žijící populace i v USA, které pocházejí z chovných ryb.",
+                   "Sameček je delší a štíhlejší. Dorůstá do délky až 5 cm. Zlatožluté pruhy se u samce výrazněji lesknou. Samička je plnější v břišní části, které je bělavé. Pruhování není tak výrazně lesklé, pruhy místo zlaté mohou mít spíše stříbrný nádech. Charakteristické pro obě pohlaví jsou modré, kovově lesklé pruhy po celé délce těla a dva dlouhé a dva krátké vousky kolem tlamky. U nás se prodává divoká forma i vyšlechtěná závojnatá forma.",
+                   "Pro udržení těchto rybek ve zdravém stavu je důležité zajistit jim čisté prostředí ve správně fungujícím akvarijním systému. Důležitou součástí je pravidelná výměna systémových filtrů, aby všechny nádrže dostávaly správný průtok vody a čistou vodu.Tato rybka je technicky považována za studenovodní rybu, preferuje vodu o teplotě 17,5 až 24 stupňů Celsia, ale i více. Přizpůsobí se však široké škále vodních podmínek. Pokud je teplota vody příliš nízká, bývají náchylnější k nemocem ",
+                   "Tyto rybky nevyžadují velkou nádrž, ani zvláštní osázení. Lze k nim dát i závojnaté formy. Rostliny mohou být vysázeny libovolně a úkryty nejsou potřeba.",
+                   "Dánio pruhované je čilá hejnová rybka, která by se měla chovat v hejnu s minimálně sedmi nebo osmi rybami. Soužití s ostatními rybami v běžném případě nepředstavuje žádný problém. K akvarijním rybám, které se nabízí jako ryby k soužití pro dánio pruhovaného, patří například různé cichlidky, parmičky a sumečkové.",
+                   "Dánio pruhované patří k těm rybám, které požírají své jikry, a doporučuje se tedy rodiče včas z nádržky odlovit poté, co se samička vytře. Jinak se musí počítat s tím, že rodiče jikry, a i již vylíhlé plůdky budou požírat. Do vykulení plůdku to trvá dva dny. Po pár několika dalších dnů už malé rybky dánio pruhovaného volně plavou. Výživa mláďat nejdříve probíhá vhodným prachovým krmivem, které by se mělo podávat v malých dávkách několikrát za den."],
+    "funFacts": [
+                 "Dánio je vědecky využíváno jako modelový organismus. Jeho embryonální vývoj je velmi rychlý a jeho embrya jsou relativně velká, robustní a transparentní a schopná vyvíjet se mimo tělo své matky.",
+                 "Některé samičky jsou věrné určitému samci a s ním se nejlépe třou.",
+                 "Po vylíhnutí se všechna dánia vyvíjejí se samičím pohlavím. Rozlišovat se začnou po dovršení pěti až sedmi týdnů."]
   },
   {
     "id": 4,
     "fishSlug": "/FishAtlas/glofis",
     "name": "Tetra GloFish",
-    "latinName":"",
+    "latinName":"Ternetia Glofish",
     "imgUrl": "/img/4ternetsii.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Oficiálně byla GloFish uvedena na trh s akvarijními rybami v USA, kde se prodává zhruba po pěti až osmi dolarech za kus. Prodeji předcházelo schvalování běžné pro chov či pěstování většiny geneticky modifikovaných organismů. Schvalovací proces dopadl dobře.", 
+                    "Navzdory zvláštnímu vzhledu, tyto ryby nemají žádné zvláštní preference pro životní podmínky - jsou nenáročné na péči, a proto mnoho akvaristů dává přednost chovu tohoto druhu.",
+                    "První Ternetia Glofish se objevila v roce 2013: veřejnosti byla představena oranžová „Sunburst Orange“ a růžová „Moonrise Pink“. O rok později byli genetici schopni vyšlechtit červené Glo „Starfire Red“ a modré „Cosmic Blue“ ryby.Chovatelé začali aktivně křížit vícebarevné Glofish, takže nyní akvarista může koupit tetru téměř ve všech barvách duhy. Bez ohledu na jejich odstín zůstávají ryby téměř stejné jako jejich obyčejní příbuzní.",
+                    "Běžný chov v nádrži střední velikosti asi o objemu 80 litrů a minimální délce 60 cm, dobře prosvětlené a dostatečně zarostlé. Lépe však budou prospívat ve větších nádržích; v malých nádržích se zvláště při krmení může projevit mírná agresivita vůči ostatním druhům ryb, kterým mohou dokonce okusovat ploutve. Samečci mezi sebou občas bez dalších následků soupeří. Zdržují se převážně v horním a středním pásmu nádrže. Voda čirá, polotvrdá a mírně kyselá. Nádrž udržujeme v čistotě, pravidelně odkalujeme a měníme část vody.",
+                    "Je to klidná, mírumilovná, hejnová a nenáročná ryba vhodná i pro začátečníky. Jedná se o další z řady teter vhodných do společenských nádrží. Chováme je ve společnosti druhově podobných, nebo větších rybek se stejnými nároky. Tyto společenské, čilé a mírumilovné rybky vyžadují dobře osázené akvárium s tmavým dnem. Vynikne v houfu, neboť jde o skupinovou rybku. Měla by být chována v početnějším hejnu (cca 8 a více jedinců).",
+                    "Ryby se poměrně snadno vytírají. Pro rozmnožování je vhodné mít malou nádrž bez písku s jemnolistými volně plovoucími rostlinami (např. jávský mech), do kterého se rybičky vytírají. Voda odstátá, neutrální a dobře provzdušněná, aby nedošlo k zaplísnění jiker a o teplotě cca 26 °C. Po vytření je nutné chovný pár ihned odlovit, protože rodiče své jikry požírají. Počet jiker bývá početný, až kolem 200-250 kusů. Potěr se vykulí asi po 24 hodinách a asi za 6 dnů se rozplave. První 3 až 4 týdny svého života se plůdek zdržuje v blízkosti dna. Potěr krmíme jemnou živou potravou - nejvhodnější je zooplankton"
+                  ],
+    "funFacts": [
+                 "GloFish je obchodní značka kmene geneticky modifikovaných fluorescenčních ryb.",
+                 "GloFish obsahují uměle vložený gen pro fluorescenční proteiny, které vytváří jasnou fluorescenci při osvícení ultrafialovým nebo bílým světlem.",
+                 "Díky genům mořských medúz a korálů bylo dosaženo mnoho pestrých odstínů."]
   },
   {
     "id": 5,
@@ -65,8 +84,17 @@
     "name": "Neonka obecná",
     "latinName": "Paracheirodon innesi",
     "imgUrl": "/img/5neon.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Byla objevena v roce 1936 a do Evropy se dostala v letech 1937-1940, kdy došlo k několika importům z přírodního prostředí v podhůří peruánských And. Do tehdejšího Československa byla dovezena hned po druhé světové válce v roce 1945 a brzy i úspěšně rozmnožena.",
+                    "Jedná se o všežravou rybu, preferuje živou hmyzí potravu, přijímá také vločkové, nebo mražené krmivo. Pro dobré vybarvení a růst by měla převažovat živočišná potrava.",
+                    "Sameček tetry neonové je štíhlý, bříško má rovné, svítící pas nelomený a dorůstá 3-3,5 cm délky. Samička je zavalitější, svítící pas pod hřbetní ploutví má obloukovitě prohnutý směrem dolů a dorůstá délky asi 4 cm.",
+                    "Tetra neonová je mírumilovná a daří se jí v prostornějších nádržích středně zarostlých, s tmavším dnem a dobře prokysličenou vodou. Vhodné je použít na dno nádrže hrubozrnný písek kombinovaný s pláty břidlice a vyluhovanými kořeny. Celková tvrdost vody pro dospělé ryby by neměla přesáhnout 8°N a hodnota pH neutrální hranici (pH 7). Teplotu vody je třeba udržovat v rozmezí 20-22 °C. Při vyšší tvrdosti a teplotě nad 24 °C degeneruje nejen pohlavní ústrojí, ale dochází i ke ztrátě pigmentace a celkovému chřadnutí ryb. Tetrám neonovým neprospívá příliš stará akvarijní voda. Jakmile poklesne pH pod hodnotu 6, je třeba část vody vyměnit za čerstvou, ale dobře odplyněnou zásaditější vodu.",
+                    "Doporučuje se chovat ve skupině o minimálním počtu 10 a více rybek, neboť chování těchto rybek v nádrži souvisí s jejich počtem. Pokud je chováno menší množství, pak se neonky zdržují především v dolní části akvária. Větší skupiny vytvářejí tzv. školy, které plavou po celém akváriu.",
+                    "Rozmnožuje se ve dvoulitrových elementkách (celoskleněná nádrž) s vytíracím roštem na dně. Správná teplota a tvrdost vody jsou klíčové pro vývoj jiker a následný růst plůdku. V profesionálních pěstírnách se nasazují ke tření celá chovná hejna, lepších výsledků je však dosahováno při tření v párech."],
+    "funFacts": [
+                 "Pokud budete o neonku pečovat s citem a tak, jak to vyžaduje, dožije se až pěti a více let.",
+                 "Zdravá samička může během jednoho cyklu vyprodukovat až 100 jiker.",
+                 "Jejich zbarvení v noci bledne."]
   },
   {
     "id": 6,
@@ -74,8 +102,16 @@
     "name": "Skalára",
     "latinName": "Pterophyllum",
     "imgUrl": "/img/6skaljarija-bila.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Během desetiletí chovu skaláry byly vyšlechtěny nejrůznější mutace, například dlouhoploutvé a závojové. Co se týče barevných mutací, dnes známe takové formy jako je například zlatá, zebra, mramorová, černá, kouřová, koi, černohlavá, stříbrná atd. Do Evropy byla skalára poprvé dovezena v roce 1911 a netrvalo dlouho, než se z ní stala jedna z nejpopulárnějších akvarijních ryb.", 
+                    "Jedná se o krásné a majestátní akvarijní ryby, tudíž hlavním významem tohoto druhu je především jeho okrasný chov. Dokonce se říká, že se skaláry staly synonymem pro eleganci.",
+                    "Těmto rybám vyhovuje teplo, na které jsou zvyklé ze své domoviny (doporučuje se teplota vody kolem 26 °C), a vyšší nádrže (minimální výška by měla být 50 cm), kde se cítí lépe kvůli svému vysokému tělu a kde také mohou předvádět své nádherné dlouhé ploutve.",
+                    "Co se týče vybavení akvária, mělo by obsahovat častý rostlinný porost, či jiné úkryty (např. umělé jeskyňky, kořeny). Na tvrdosti vody příliš nezáleží, ale doporučuje se tak 5 - 15° dGH. Doporučené pH je 6 - 8. Co se týče krmení skalárů amazonských, tak by měl být jídelníček pestrý; střídávejte jak živou, tak mrazenou potravu, přijímají i krmiva umělá a sušená. Mláďatům by se zprvu měla dostávat živočišná potrava, například nauplie žábronožky solné či buchanky později například krájené nítěnky. Skaláři jsou velice náchylní na leknutí, které může dospět dokonce i k úhynu.",
+                    "Otázka, jak rozlišit pohlaví u těchto ryb, je jedna z nejčastěji kladených k tomuto druhu. Je to možné jen v době tření, kdy mají samci močopohlavní bradavky špičaté, zatímco samice tlusté a válcovité. K odchovu je nejlépe vybrat přirozeně vytvořený pár v rámci větší skupiny. Samice se vytírají především na svislé plochy jako jsou dlouhé listy, kořeny, vybavení akvária, ale někdy i na stěny akvária. Během tření může samice snést něco kolem 300 jiker. V době rozmnožování začnou být samci agresivnější, začnou si hlídat své teritorium a může se stát, že zaútočí i na jiné druhy menších ryb. Proto není na škodu v tomto období menší rybky přendat do jiné nádrže. Po nakladení jiker se o ně starají oba dva rodiče. Provádí ovívání jiker, aby jim zajistili přísun čerstvé vody a vybírají neoplodněné a plesnivé jikry."],
+    "funFacts": [
+                 "V akváriích se při dobré péči dožívá 10 let.",
+                 "Skalára je vzhledově velice zvláštní ryba: její velikost v dospělosti dosahuje i více než 20 cm a je to plochá ryba, což jí umožňuje splynout s okolním prostředím.",
+                 "V době tření je teritoriální a je velmi agresivní. "]
   },
   {
     "id": 7,
@@ -83,8 +119,17 @@
     "name": "Bojovnice pestrá",
     "latinName": "Betta splendens",
     "imgUrl": "/img/7pivnyk.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Pochází z povodí řeky Mekong v jihovýchodní Asii, z Thajska, Kambodži, Laosu a Vietnamu. Je celosvětově jednou z nejoblíbenějších akvarijních ryb. Do Čech ji roku 1897 dovezl Enrique Stanko Vráz, čímž se pravděpodobně stala první tropickou rybou chovanou v českých akváriích.",
+                    "Samci jsou vůči sobě (a někdy i vůči samicím) velmi agresivní, a proto se doporučuje chovat vždy pouze jednoho samce v akváriu. V případě chovu více samců současně je nezbytné je chovat v dostatečně velkém akváriu s množstvím přirozených skrýší. V přírodě samci sice nebojují až do usmrcení protivníka, ale v nevhodně řešeném akváriu nemá poražený kam uprchnout, takže boj může skončit jeho smrtí. Chovatelé, kteří se zaměřují na výcvik výstavních samců, používají obvykle propojená menší akvária, kdy je v každém jeden samec, který soupeří s ostatními přes sklo a díky tomu rostou jeho ploutve.", 
+                    "Samci i samice se vyskytují v mnoha barvách, jako je modrá, červená, zelená, bílá a i v různých kombinacích. Ploutve samečků bývají v případě správného chovu velmi dlouhé a rozličných tvarů. Nejčastější barvou těchto rybiček je tmavěmodrá a červená. Nejvzácnější jsou žluté a oranžové varianty. Někdy mohou být navzájem nesnášenlivé i samice, ačkoliv jejich agresivita je obvykle vedena k vytváření poměrně přísné, nicméně klidné hierarchie - za předpokladu, že je v nádrži 3 a více samic. Soužití dvou samic, pokud je jedna z nich dominantní, obvykle končí smrtí té slabší. Samice mohou napadnout i slabšího samce, na což je třeba brát ohledy především při odchovu. ",
+                    "V akváriu dobře přijímá většinu umělých vločkových i granulovaných krmiv vhodné velikosti, řada výrobců dodává i speciální umělá krmiva vyvinutá přímo pro šlechtěné bojovnice. Jsou to například Hikari Tropical Betta Bio-Gold, JBL NovoBetta, OceanNutrition Atison's Betta Food, Sera Bettagran nebo Tetra Betta.",
+                    "Bojovnice se dobře hodí do společenských nádrží, ale pouze ke klidným a neagresivním druhům, které bojovnicím nebudou okusovat jejich dlouhé ploutve a současně nemohou být pro bojovnice vizuálním rivalem, jako třeba některé cichlidy (např. známé skaláry). Ani malé rybky nejsou vhodným společníky, protože by bojovnicemi mohly být považovány za potravu. Ideálním prostředím pro bojovnice je akvárium klasického formátu nad 100 l, ve kterém nechybí vysoké a volně plovoucí rostliny. Vhodná teplota pro tyto rybky je mezi 24-30 °C a pH vody by mělo být v rozmezí 6,5-7,0, přičemž je nezbytné prostředí udržovat v uvedených mantinelech. Betty jsou velmi citlivé na nepříznivé podmínky, mohou trpět alergiemi na některé vybavení akvária, případně na přemnožení bakterii a sinic.",
+                   "Jakkoliv je vlastní chov bojovnic co se týče přípravy poměrně složitý, odchov je díky silně vyvinutému rozmnožovacímu pudu tohoto druhu poměrně snadný a skutečně velmi zajímavý. Sameček pomocí sekretu z tlamy postaví pěnové hnízdo z bublin, do kterého ukládá oplodněné jikry. Samička je ihned po tření od hnízda vyhnána a musí se z akvária odlovit. Sameček neustále hnízdo upravuje a opětovně do něj zabudovává popadané potomstvo. Po zhruba třech dnech, když plůdek vstřebá svůj žloutkový váček a rozplave se, se odloví i sameček. Potěr je velmi drobný a odchovává se prachovou potravou a planktonem. Rozmnožovací pud lze posílit zvýšením teploty a snížením hladiny vody v akváriu."],
+    "funFacts": [
+                 "Patří do skupiny tzv. pěnových bojovnic, jejichž samci staví pro potomstvo pěnová hnízda.",
+                 "Je vybavena nadžaberním orgánem, tzv. labyrintem, který umožňuje dýchání vzdušného kyslíku a život v teplých, stojatých a špatně okysličených vodách.", 
+                 "Jejich bojové schopnosti jsou v Thajsku a dalších zemích nadále podporovány šlechtěním a využívány k tradičním rybím zápasům, na které se vsází"]
   },
   {
     "id": 8,
@@ -92,17 +137,34 @@
     "name": "Mečovka mexická",
     "latinName":"Xiphophorus hellerii",
     "imgUrl": "/img/8mecenosci.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Tato sladkovodní ryba pochází z Mexika a Střední Ameriky. Dnes se tato ryba vyskytuje i v jiných částech světa, například v Severní Americe, Africe a Austrálii. Důvodem je, že lidé opakovaně vypouštěli okrasné ryby do přírodních vod.",
+                    "Když jsou spolu samci, často vytvářejí teritoria. Jakmile mají v hledáčku nějakou samici, pustí se do agresivního boje. Pokud žije více samců pohromadě, chovají se k sobě tím klidněji, čím více mají prostoru. Přesto by se o akvárium mělo vždy dělit více samic než samců.Během rozmnožování jsou samci velmi přímí: poklepávají samici čenichem na břicho, aby jí dali najevo svůj zájem. Pokud jsou úspěšní, rodí samice po čtyřech až šesti týdnech až 150 a více mláďat - živých, nikoliv jako jikry. Pokud samice neporodí v izolaci, je většina mláďat sežrána.", 
+                    "Pokud jde o potravu, nejsou tyto okrasné rybky nijak vybíravé: vděčně přijmou suché krmivo, mražené krmivo i živou potravu. Občas mohou dostat i nakrájené listy salátu nebo okurku.",
+                    "Jelikož Mečovka mexická je živorodka, nedoporučuje se chov s Platou skvrnitou nebo Platou pestrou, protože by mohlo dojít k mezidruhovému křížení. Nevhodnými společníky jsou i drzé parmičky, bojovnice, závojnatky, ale i krabi a raci.",
+                    "Potřebují pro dobré prospívání prostor pro plavání a dostatečně proudící vodu, samci se často prohánějí a v malém prostoru může dojít k ubití slabšího samce. Nutné je také mít v nádrži dostatek rostlin a úkrytů, aby se samice mohla schovat před neustále dotírajícím samcem. Pouze 1 samice v nádrži se samcem často vede k její předčasné smrti, jelikož ji samec doslova uštve. Je to celkově nenáročná rybka, vhodná pro začínající akvaristy, což ale neznamená, že není třeba se starat o čistotu akvária a pravidelně vyměňovat vodu, vhodné je také silnější proudění vody z filtru (stojatá voda není vhodná). Špatné podmínky v nádrži vedou k tomu, že potěr umírá dříve, než dosáhne dospělosti a celkově ryby žijí i méně než 1 rok, často trpí různými nemocemi. Naopak v dobrých podmínkách velmi dobře prospívají a chovatel se z jejich přítomnosti může těšit téměř neomezeně dlouho, jelikož se pravidelně a dobře množí a z vrhu vždy několik mláďat přežije."],
+    "funFacts": [
+                 "Samička může během života změnit pohlavý následkem věku, nebo napadení parazitem.",
+                 "Jsou schopné komunikovat pomocí chemikálíi ve vodě, během páření využívají výlučky k lákaní partnerů", 
+                 "Dochází u nich k mezidruhovému křížení."]
   },
   {
     "id": 9,
     "fishSlug": "/FishAtlas/molinezii",
-    "name": "Živorodka ostrotlamá",
+    "name": "Živorodka ostrotlamá - Molly",
     "latinName": "Poecilia sphenops",
     "imgUrl": "/img/9molineziki.jpg",
-    "description": ["", "", ""],
-    "funFacts": ["", "", ""]
+    "description": [
+                    "Jméno Molly je odvozeno od rodového označení Mollienesia platného do roku 1963. Tyto rybky se vyskytují v úzkém pobřežním pásu od Floridy přes Texas až do severního Mexika.",
+                    "Tato rybka má mnoho odrůd, které se liší jak barvou, tak i tvarem ploutví. Původní druh se ale v akváriích v moc nevyskytuje. Rybky z volné přírody budou spokojené i při teplotě kolem 18°C. Barevné odrůdy, které se prodávají (nejčastěji černá - Black Molly, ale i karmínově červené, lyroocasé atd.) jsou na teplotu mnohem choulostivější a mají raději teploty kolem 25°C. Také jsou náchylnější k různým onemocněním. Proti tomu bývá často účinné přidat do akvária trošku mořské, nebo kuchyňské soli. Vždy po vyčištění se do akvária má přidat preventivně přípravek proti nemocem.",
+                    "Samečci jsou štíhlejší, mají delší ploutve a mají gonopodium. Existují i samci, kteří mají podobné ocasní ploutve a mají nevyvinuté gonopodium. Stejně jako u mečovek se tito samci perou a často nejsou plodní. Ostatní samci si je pletou se samicemi, nahání je a tak vznikají konflikty.",
+                    "Preferují jednoznačně rostlinnou potravu. Živorodky žerou hlavně na vodní hladině. Proto by se mělo používat lehké vločkové krmivo s čistým nebo vysokým obsahem rostlin, které neklesá příliš rychle ke dnu.Čas od času mají rády také živou nebo mraženou potravu, například komáří larvy. Lze jim nabízet také krmivo pro ryby z čistých řas. Je důležité ryby nepřekrmovat. Příliš mnoho potravy škodí nejen samotným živočichům, ale může narušit celý ekosystém akvária.",
+                    "Chov Black Molly je poměrně snadný. Mírumilovné černé ryby se dobře snášejí s mnoha jinými sladkovodními rybami. Akceptují také různé životní podmínky a druhy krmení. Tyto podmínky by však mělý být stále stejné. Tmavé okrasné ryby jsou velmi citlivé na jakékoli výkyvy. To se týká teploty vody, kyselosti nebo hodnoty pH.Živorodka ostrotlamá nesnáší příliš tvrdou nebo příliš měkkou vodu. Tento jev je poměrně častýi u mnoha jiných vyšlechtěných druhů ryb. Problémy jim způsobuje také příliš vysoká kyselost vody.Black Molly dávají přednost teplotě vody 26 až 28 °C. V případě potřeby se vyrovnají i s mírně chladnějším i poněkud teplejším prostředím akvária (maximálně 30 stupňů). Teplota vody by však neměla být nižsí než 24 °C a vyšší než 30 °C. Důležité je, aby zvolená teplota zůstala stabilní.",
+                    "Jako hodně ostatních živorodek jsou velmi plodné a snadno se množí. Mezi potěrem barevných odrůd se často vyskytne pár rybiček, které mají jinou barvu, než jejich rodiče. V akváriu by měl být dostatek úkrytů pro potěr, jinak ho ostatní rybičky (i jeho rodiče) sežerou. Popřípadě lze samičku před porodem umístit do samostatné hustě osázené nádrže, nebo do porodničky."],
+    "funFacts": [
+                 "Je schopná užrat se k smrti.",
+                 "Samička může oplodnit vajíčka bez samce, uskladňujě si sperma po dobu 30 dní.",
+                 "Často dávají najevo nepohodlí způsobené špatnými podmínkami houpavými pohyby."]
   }
 
 ]
