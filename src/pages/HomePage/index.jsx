@@ -5,7 +5,7 @@ export const HomePage = () => {
   return (
     <>
       <Header />
-      <section clclassName="orybach" id="orybach">
+      <section className="orybach" id="orybach">
         <h2>O rybách</h2>
         <img className="foto-orybach" src="img/747278.jpg" alt="O rybach" />
         <p>
