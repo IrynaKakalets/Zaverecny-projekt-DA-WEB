@@ -1,0 +1,490 @@
+/* Hlavná stránka */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Záhlavie */
+
+position: absolute;
+width: 1405px;
+height: 285px;
+left: 17px;
+top: 12px;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1432.24px;
+height: 0px;
+left: calc(50% - 1432.24px/2 + 14.62px);
+top: 283px;
+
+border: 1px solid #000000;
+transform: rotate(-11.4deg);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1426.36px;
+height: 0px;
+left: calc(50% - 1426.36px/2 + 1412.68px);
+top: 283px;
+
+border: 1px solid #000000;
+transform: rotate(-168.56deg);
+
+
+/* Bar */
+
+position: absolute;
+width: 1440px;
+height: 62px;
+left: 0px;
+top: 320px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+
+
+/* KONTAKT */
+
+position: absolute;
+left: 37.57%;
+right: 55.9%;
+top: 30.65%;
+bottom: 30.65%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* INFO */
+
+position: absolute;
+left: 5.76%;
+right: 90.9%;
+top: 30.65%;
+bottom: 30.65%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 423px;
+height: 42px;
+left: calc(50% - 423px/2 + 500.5px);
+top: calc(50% - 42px/2);
+
+background: #FFFFFF;
+border-radius: 15px;
+
+
+/* 🦆 icon "search" */
+
+position: absolute;
+left: 70.56%;
+right: 27.35%;
+top: 25.81%;
+bottom: 25.52%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 70.56%;
+right: 27.35%;
+top: 25.81%;
+bottom: 25.52%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 70.82%;
+right: 27.96%;
+top: 31.89%;
+bottom: 39.71%;
+
+border: 2.515px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.87%;
+right: 27.61%;
+top: 56.23%;
+bottom: 31.6%;
+
+border: 2.515px solid #000000;
+
+
+/* HLAVNÁ STRÁNKA */
+
+position: absolute;
+width: 181px;
+height: 24px;
+left: 246px;
+top: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 1380px;
+height: 409px;
+left: 30px;
+top: 486px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 68.7%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+opacity: 0.6;
+border: 1px solid #000000;
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 34.35%;
+right: 34.35%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 68.7%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+
+
+/* Line 3 */
+
+position: absolute;
+left: 5.51%;
+right: 64.46%;
+top: 12.22%;
+bottom: 87.78%;
+
+border: 1px solid #000000;
+transform: rotate(50.97deg);
+
+
+/* Line 4 */
+
+position: absolute;
+left: 38.91%;
+right: 30.69%;
+top: 86.06%;
+bottom: 13.94%;
+
+border: 1px solid #000000;
+transform: rotate(-43.16deg);
+
+
+/* Line 5 */
+
+position: absolute;
+left: 4.13%;
+right: 65.47%;
+top: 83.37%;
+bottom: 16.63%;
+
+border: 1px solid #000000;
+transform: rotate(-41.13deg);
+
+
+/* Line 6 */
+
+position: absolute;
+left: 39.02%;
+right: 30.58%;
+top: 14.3%;
+bottom: 85.51%;
+
+border: 1px solid #000000;
+transform: rotate(43.28deg);
+
+
+/* Line 7 */
+
+position: absolute;
+left: 72.83%;
+right: -3.22%;
+top: 16.14%;
+bottom: 83.86%;
+
+border: 1px solid #000000;
+transform: rotate(43.74deg);
+
+
+/* Line 8 */
+
+position: absolute;
+left: 73.26%;
+right: -3.86%;
+top: 85.57%;
+bottom: 14.43%;
+
+border: 1px solid #000000;
+transform: rotate(-41.54deg);
+
+
+/* Bar */
+
+position: absolute;
+left: -2.17%;
+right: -2.17%;
+top: -1.22%;
+bottom: 86.06%;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+
+
+/* KONTAKT */
+
+position: absolute;
+left: 37.57%;
+right: 55.9%;
+top: 30.65%;
+bottom: 30.65%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* INFO */
+
+position: absolute;
+left: 5.76%;
+right: 90.9%;
+top: 30.65%;
+bottom: 30.65%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 423px;
+height: 42px;
+left: calc(50% - 423px/2 + 500.5px);
+top: calc(50% - 42px/2);
+
+background: #FFFFFF;
+border-radius: 15px;
+
+
+/* 🦆 icon "search" */
+
+position: absolute;
+left: 70.56%;
+right: 27.35%;
+top: 25.81%;
+bottom: 25.52%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 70.56%;
+right: 27.35%;
+top: 25.81%;
+bottom: 25.52%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 70.82%;
+right: 27.96%;
+top: 31.89%;
+bottom: 39.71%;
+
+border: 2.515px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.87%;
+right: 27.61%;
+top: 56.23%;
+bottom: 31.6%;
+
+border: 2.515px solid #000000;
+
+
+/* HLAVNÁ STRÁNKA */
+
+position: absolute;
+width: 181px;
+height: 24px;
+left: 246px;
+top: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* O RYBIČKÁCH */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 87px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* DRUHY RÝB */
+
+position: absolute;
+width: 229px;
+height: 48px;
+left: 606px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* HRA */
+
+position: absolute;
+width: 230px;
+height: 40px;
+left: 1139px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+

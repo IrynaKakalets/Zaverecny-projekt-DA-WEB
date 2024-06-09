@@ -1,0 +1,226 @@
+{
+  "nazev": "Ověř si své znalosti!",
+  "otazky": [
+      {
+          "id": 0,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 1,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 2,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 3,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 4,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 5,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 6,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },{
+          "id": 7,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 8,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        },
+        {
+          "id": 9,
+          "otazka": "Gupka je:",
+          "typ": "moznosti",
+          "mozneOdpovedi": [
+              {
+                  "answer": "Dravá ryba.",
+                  "type": false,
+                  "hlaska": "Skoro! Gupka je všežravá rybka."
+              },
+              {
+                  "answer": "Živorodka.",
+                  "type": true,
+                  "hlaska": "Je to tak! Gupka rodí živé larvy."
+              },
+              {
+                  "answer": "Náročná na chov pro začátečníky.",
+                  "type": false,
+                  "hlaska": "To není pravda. Gupka je rybyčka vhodná pro začínejíci akvaristy"
+              }
+          ]
+        }
+        
+      ]
+      }
+
