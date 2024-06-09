@@ -8,11 +8,9 @@ export const Contacts = () => {
       <section className="kontakt" id="kontakt">
         <h2>Oficiální kontakt</h2>
 
-        <img className="foto-kontakt" src="img/kontakt.jpg" alt="Kontakt" />
-
         <h4>
-          Obě radi vzděláváme se a potkali jsme na DA Web. Baví nás
-          programování, zvířata a cestování.
+          Obě radi vzděláváme se a potkali jsme na DA Web. <br/>
+          Baví nás programování, zvířata a cestování.
         </h4>
 
         <p>

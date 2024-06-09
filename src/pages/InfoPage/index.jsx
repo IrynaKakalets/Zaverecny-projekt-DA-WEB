@@ -7,7 +7,7 @@ export const InfoPage = () => {
       <Header />
   <section className="peče" id="peče">
   
-    <h2>Peče</h2>
+    <h2>Jak začít s akváriem</h2>
 
     <h3>Založení akvária krok za krokem</h3>
 
