@@ -2,9 +2,8 @@ import './style.css';
 import { NavLink } from 'react-router-dom';
 export const Header = () => {
   return (
-  
-    <nav className="hlavicka">
-      <h1>  Akvarijní rybičky pro začátečníky</h1>
+    <nav className="header">
+    <h1>Akvarijní rybičky pro začátečníky</h1>
       <div className='navWrapper'>
       <NavLink className="headerLink" to="/" activeClassName="active">
         Domů

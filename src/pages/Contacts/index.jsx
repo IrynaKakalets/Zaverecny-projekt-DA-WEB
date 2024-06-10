@@ -5,8 +5,8 @@ export const Contacts = () => {
   return (
     <>
       <Header />
-      <section className="kontakt" id="kontakt">
-        <h2>Oficiální kontakt</h2>
+      <section className="contact" id="kontakt">
+        <h2>Kontakt</h2>
 
         <h4>
           Obě radi vzděláváme se a potkali jsme na DA Web. <br/>
