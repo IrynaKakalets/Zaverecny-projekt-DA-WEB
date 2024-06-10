@@ -5,10 +5,10 @@ export const Contacts = () => {
   return (
     <>
       <Header />
-      <section className="kontakt" id="kontakt">
-        <h2>Oficiální kontakt</h2>
+      <section className="contact" id="kontakt">
+        <h2>Kontakt</h2>
 
-        <img className="foto-kontakt" src="img/kontakt.jpg" alt="Kontakt" />
+        <img className="photo-contact" src="img/kontakt.jpg" alt="Kontakt" />
 
         <h4>
           Obě radi vzděláváme se a potkali jsme na DA Web. Baví nás

@@ -5,9 +5,9 @@ export const HomePage = () => {
   return (
     <>
       <Header />
-      <section className="orybach" id="orybach">
+      <section className="fish-info" id="orybach">
         <h2>O rybách</h2>
-        <img className="foto-orybach" src="img/747278.jpg" alt="O rybach" />
+        <img className="fish-photo" src="img/747278.jpg" alt="O rybach" />
         <p>
           <strong>Akvária a zrak.</strong>
           „Pohled na pěkné akvárium je velmi uklidňující pro duši, a pokud je
