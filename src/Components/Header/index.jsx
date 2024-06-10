@@ -4,7 +4,7 @@ export const Header = () => {
   return (
   
     <nav className="hlavicka">
-      <h1>Akvarijní rybičky pro začátečníky</h1>
+      <h1>  Akvarijní rybičky pro začátečníky</h1>
       <div className='navWrapper'>
       <NavLink className="headerLink" to="/" activeClassName="active">
         Domů
