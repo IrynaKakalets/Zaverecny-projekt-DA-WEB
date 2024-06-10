@@ -40,7 +40,7 @@ export const Contacts = () => {
         </a>
 
         <p>Mobil: +420 778 583 618</p>
-
+        <br />
         <p>
           <strong>BIBIANA ERNESTOVÁ </strong>
         </p>
