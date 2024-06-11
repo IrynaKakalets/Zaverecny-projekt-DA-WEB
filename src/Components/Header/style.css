@@ -33,7 +33,6 @@
   text-decoration: none;
   cursor: none;
   min-width: 180px;
-
 }
 
 .headerLink:hover {
@@ -50,8 +49,6 @@
   }
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
-
 * {
   box-sizing: border-box;
 }
@@ -66,8 +63,6 @@ html {
   margin-left: auto;
 }
 
-
-
 body {
   color: #113049;
   background-color: #edf7f8;
@@ -79,20 +74,13 @@ body {
 
 h1,
 h2,
-h3,
-a {
-  color: #113049;
-}
-
-h1,
-h2,
 h3 {
   font-family: 'Playfair Display', serif;
   font-style: italic;
 }
 
 h1 {
-  font-size: 75px;
+  font-size: 90px;
   text-align: center;
   color: rgb(229, 244, 251);
   margin: 0;
@@ -119,39 +107,11 @@ section {
   overflow: auto;
 }
 
-.menu {
-  margin: 0;
-  padding: 0;
-  text-align: center;
-  background-color: #072e3db3;
-}
-
-.menu li {
-  display: inline-block;
-}
-
-.menu a {
-  display: inline-block;
-  color: white;
-  text-decoration: none;
-  padding: 20px 30px;
-}
-
-.menu a:hover,
-.menu a:focus,
-.menu a:active {
-  background-color: #223f58;
-}
-
-
-
   .foto {
     flex: 1 1 50%;
     position: relative;
     overflow: hidden;
   }
-
- 
 
   .foto img {
     width: 100%;
@@ -159,11 +119,8 @@ section {
     transition: transform .4s;
   }
 
- 
-
 @media screen and (min-width: 1000px) {
   .fotogalerie {
     display: block;
   }
-
 }

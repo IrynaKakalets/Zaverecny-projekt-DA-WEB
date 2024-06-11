@@ -65,7 +65,7 @@ export const FishAtlas = () => {
             </p>
           </div>
           <div className="foto">
-            <img src="img/2hupiki.jpg" alt="Živorodky" />
+            <img src="img/2hupicki.jpg" alt="Živorodky" />
             <p className="popisek">
               <span className="popisek-copy">
                 <Link to="/FishAtlas/guppy">ŽIVORODKY (Gupka)</Link>
@@ -92,7 +92,7 @@ export const FishAtlas = () => {
           </div>
 
           <div className="foto">
-            <img src="img/5neon.jpg" alt="Tetra neonová" />
+            <img src="img/5neoni.jpg" alt="Tetra neonová" />
             <p className="popisek">
               <span className="popisek-copy">
                 <Link to="/FishAtlas/neonka">NEONKA OBECNÁ (Tetra neonová)</Link>
@@ -128,7 +128,7 @@ export const FishAtlas = () => {
           </div>
 
           <div className="foto posledni">
-            <img src="img/9molineziki.jpg" alt="Black molly" />
+            <img src="img/9molinezii.jpg" alt="Black molly" />
             <p className="popisek">
               <span className="popisek-copy">
                 <Link to="/FishAtlas/molly">BLACK MOLLY</Link>

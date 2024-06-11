@@ -18,6 +18,7 @@ export const FishDetail = () => {
     <>
       <Header />
       <div>
+        
         <div>
           <h1>{name}</h1>
           <h2>{latinName}</h2>
@@ -32,9 +33,13 @@ export const FishDetail = () => {
             <DescriptionItem key={item} descriptionParagraph={item} />
           ))}
         </div>
+
+
         <div>
           <img src={imgUrl}></img>
         </div>
+
+
       </div>
       <Footer />
     </>
