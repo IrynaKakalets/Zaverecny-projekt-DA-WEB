@@ -17,7 +17,6 @@
   font-size: 12px;
   padding: 4px 0 18px 0;
   border-radius: 50px;
-
 }
 
 .foto .popisek-copy {
@@ -118,7 +117,3 @@ body {
   margin: 0;
 }
 
-.katalogryb,
-.kontakt {
-  background-color: #bcd5c6d6;
-}

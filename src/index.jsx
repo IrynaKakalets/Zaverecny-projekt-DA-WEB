@@ -8,6 +8,7 @@ import { InfoPage } from './pages/InfoPage';
 import { FishAtlas } from './pages/FishAtlas';
 import { Quiz } from './pages/Quiz';
 import { Contacts } from './pages/Contacts';
+import { FishDetail } from './pages/FishDetail';
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
   {
     path: '/FishAtlas',
     element: <FishAtlas />,
+  },
+  {
+    path: '/FishAtlas/:fishSlug',
+    element: <FishDetail />,
   },
   {
     path: '/Contacts',

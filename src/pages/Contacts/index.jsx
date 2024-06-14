@@ -5,14 +5,12 @@ export const Contacts = () => {
   return (
     <>
       <Header />
-      <section className="kontakt" id="kontakt">
-        <h2>Oficiální kontakt</h2>
-
-        <img className="foto-kontakt" src="obrazky/kontakt.jpg" alt="Kontakt" />
+      <section className="contact" id="kontakt">
+        <h2>Kontakt</h2>
 
         <h4>
-          Obě radi vzděláváme se a potkali jsme na DA Web. Baví nás
-          programování, zvířata a cestování.
+          Obě radi vzděláváme se a potkali jsme na DA Web. <br/>
+          Baví nás programování, zvířata a cestování.
         </h4>
 
         <p>
@@ -32,17 +30,17 @@ export const Contacts = () => {
 
         <a href="https://www.linkedin.com/in/iryna-kakalets">
           <img
-            src="obrazky/linkedin.png"
+            src="img/linkedin.png"
             alt="Linkedin"
             className="tech-logo"
           />
         </a>
         <a href="https://github.com/IrynaKakalets">
-          <img src="obrazky/github.png" alt="Github" className="tech-logo" />
+          <img src="img/github.png" alt="Github" className="tech-logo" />
         </a>
 
         <p>Mobil: +420 778 583 618</p>
-
+        <br />
         <p>
           <strong>BIBIANA ERNESTOVÁ </strong>
         </p>
@@ -61,13 +59,13 @@ export const Contacts = () => {
 
         <a href="https://www.linkedin.com">
           <img
-            src="obrazky/linkedin.png"
+            src="img/linkedin.png"
             alt="Linkedin"
             className="tech-logo"
           />
         </a>
         <a href="https://github.com/cyberHoof">
-          <img src="obrazky/github.png" alt="Github" className="tech-logo" />
+          <img src="img/github.png" alt="Github" className="tech-logo" />
         </a>
 
         <p>Mobil: +420 776 072 292</p>

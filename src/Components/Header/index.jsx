@@ -1,20 +1,26 @@
 import './style.css';
 import { NavLink } from 'react-router-dom';
 export const Header = () => {
+  
   return (
-    <nav>
-      <NavLink to="/" activeClassName="active">
-        HomePage
+    <nav className="header">
+      <h1>Akvarijní rybičky pro začátečníky</h1>
+      <div className='navWrapper'>
+      <NavLink className="headerLink" to="/" activeClassName="active">
+        Domů
       </NavLink>
-      <NavLink to="/FishAtlas" activeClassName="active">
-        FishAtlas
+      <NavLink className="headerLink" to="/FishAtlas" activeClassName="active">
+        Atlas ryb
       </NavLink>
-      <NavLink to="/InfoPage" activeClassName="active">
-        InfoPage
+      <NavLink className="headerLink" to="/InfoPage" activeClassName="active">
+        Jak začít s akváriem
       </NavLink>
-      <NavLink to="/Contacts" activeClassName="active">
-        Contacts
+      <NavLink className="headerLink" to="/Quiz" activeClassName="active">
+        Kvíz
       </NavLink>
+      <NavLink className="headerLink" to="/Contacts" activeClassName="active">
+        Kontakty
+      </NavLink></div>
     </nav>
   );
 };

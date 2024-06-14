@@ -14,8 +14,6 @@ html {
   margin-left: auto;
 }
 
-
-
 body {
   color: #113049;
   background-color: #edf7f8;
@@ -25,7 +23,7 @@ body {
   margin: 0;
 }
 
-.foto-orybach {
+.fish-photo {
   width: 350px;
   height: 250px;
   border-radius: 10%;

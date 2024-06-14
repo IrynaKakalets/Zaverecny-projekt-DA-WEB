@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 * {
@@ -8,11 +9,6 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
-.container {
-  max-width: 26rem;
-  margin-right: auto;
-  margin-left: auto;
-}
 
 body {
   color: #113049;
@@ -21,25 +17,13 @@ body {
   font-size: 18px;
   line-height: 1.5;
   margin: 0;
-}
+} 
 
-h2 {
-  font-size: 48px;
+h1 {
   text-align: center;
-  margin-top: 0;
-  color: #113049;
+  color: rgb(19, 68, 91);
+  margin: 0;
+  text-shadow: 0 3px 10px #072e3db3;
 }
+ 
 
-.photo-contact {
-  width: 250px;
-  border-radius: 50px 0 50px 50px;
-  border: 2px solid #072e3db3;
-  float: left;
-  margin: 0 30px 30px 0;
-}
-
-.tech-logo {
-  width: 3em;
-  height: 3em;
-  margin-left: 50px;
-}

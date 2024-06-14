@@ -14,8 +14,6 @@ html {
   margin-left: auto;
 }
 
-
-
 body {
   color: #113049;
   background-color: #edf7f8;
@@ -25,11 +23,12 @@ body {
   margin: 0;
 }
 
-.foto-peče {
+.care-photo {
   width: 350px;
   border-radius: 0 50px 50px 50px;
   float: right;
   margin: 0 0 30px 30px;
+  border: 2px solid #072e3db3;
 }
 
 h3 {

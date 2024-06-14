@@ -1,6 +1,8 @@
 import './style.css';
 import { Header } from '../../Components/Header';
 import { Footer } from '../../Components/Footer';
+import { Link } from 'react-router-dom';
+
 export const FishAtlas = () => {
   return (
     <>
@@ -55,81 +57,81 @@ export const FishAtlas = () => {
         </p>
         <div className="galerie">
           <div className="foto">
-            <img src="obrazky/1zoloti-rybki.jpg" alt="Zlata rybka" />
+            <img src="img/1zoloti-rybki.jpg" alt="Zlata rybka" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="zlatarybka.html">ZLATÉ RYBKY</a>
+                <Link to="/FishAtlas/zlatarybka">ZLATÉ RYBKY</Link>
               </span>
             </p>
           </div>
           <div className="foto">
-            <img src="obrazky/2hupiki.jpg" alt="Živorodky" />
+            <img src="img/2hupicki.jpg" alt="Živorodky" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="gupi.html">ŽIVORODKY (Gupka)</a>
-              </span>
-            </p>
-          </div>
-
-          <div className="foto">
-            <img src="obrazky/3daniki.jpg" alt="Danio" />
-            <p className="popisek">
-              <span className="popisek-copy">
-                <a href="danio.html">DÁNIO PRUHOVÉ</a>
+                <Link to="/FishAtlas/guppy">ŽIVORODKY (Gupka)</Link>
               </span>
             </p>
           </div>
 
           <div className="foto">
-            <img src="obrazky/4ternetsii.jpg" alt="Tetra glofish" />
+            <img src="img/3daniki.jpg" alt="Danio" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="glofis.html">TETRA GLOFISH</a>
+                <Link to="/FishAtlas/danio">DÁNIO PRUHOVÉ</Link>
               </span>
             </p>
           </div>
 
           <div className="foto">
-            <img src="obrazky/5neon.jpg" alt="Tetra neonová" />
+            <img src="img/4ternetsii.jpg" alt="Tetra glofish" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="neon.html">NEONKA OBECNÁ (Tetra neonová)</a>
+                <Link to="/FishAtlas/glofish">TETRA GLOFISH</Link>
               </span>
             </p>
           </div>
 
           <div className="foto">
-            <img src="obrazky/6skaljarija-bila.jpg" alt="Skalára" />
+            <img src="img/5neoni.jpg" alt="Tetra neonová" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="skalara.html">SKALÁRA</a>
+                <Link to="/FishAtlas/neonka">NEONKA OBECNÁ (Tetra neonová)</Link>
               </span>
             </p>
           </div>
 
           <div className="foto">
-            <img src="obrazky/7pivnyk.jpg" alt="Bojovnice pestrá" />
+            <img src="img/6skaljarija-bila.jpg" alt="Skalára" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="pivnyk.html">BOJOVNICE PESTRÁ</a>
+                <Link to="/FishAtlas/skalara">SKALÁRA</Link>
               </span>
             </p>
           </div>
 
           <div className="foto">
-            <img src="obrazky/8mecenosci.jpg" alt="Mečovky" />
+            <img src="img/7pivnyk.jpg" alt="Bojovnice pestrá" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="mecovky.html">MEČOVKY</a>
+                <Link to="/FishAtlas/bojovnice">BOJOVNICE PESTRÁ</Link>
+              </span>
+            </p>
+          </div>
+
+          <div className="foto">
+            <img src="img/8mecenosci.jpg" alt="Mečovky" />
+            <p className="popisek">
+              <span className="popisek-copy">
+                <Link to="/FishAtlas/mecovky">MEČOVKY</Link>
               </span>
             </p>
           </div>
 
           <div className="foto posledni">
-            <img src="obrazky/9molineziki.jpg" alt="Black molly" />
+            <img src="img/9molinezii.jpg" alt="Black molly" />
             <p className="popisek">
               <span className="popisek-copy">
-                <a href="molinezii.html">BLACK MOLLY</a>
+                <Link to="/FishAtlas/molly">BLACK MOLLY</Link>
               </span>
             </p>
           </div>

@@ -5,9 +5,9 @@ export const InfoPage = () => {
   return (
     <>
       <Header />
-  <section className="peče" id="peče">
+  <section className="care" id="peče">
   
-    <h2>Peče</h2>
+    <h2>Jak začít s akváriem</h2>
 
     <h3>Založení akvária krok za krokem</h3>
 
@@ -29,7 +29,7 @@ export const InfoPage = () => {
 
     <h3>Než vpustíme akvarijní rybičky</h3>
 
-    <img className="foto-peče" src="obrazky/uvod.jpg" alt="Peče"/>
+    <img className="care-photo" src="img/uvod.jpg" alt="Peče"/>
 
     <p>
       Nikdy nepouštějte ryby do čerstvě založené nádrže. 

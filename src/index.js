@@ -1,5 +1,4 @@
 
-
 //cursor fish
 
 var customCursor = document.createElement('img');
