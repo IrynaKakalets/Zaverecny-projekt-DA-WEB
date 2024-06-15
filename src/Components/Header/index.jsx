@@ -4,7 +4,13 @@ export const Header = () => {
   
   return (
     <nav className="header">
-      <h1>Akvarijní rybičky pro začátečníky</h1>
+
+    <div class="name">
+
+    <h1 class="animated-title">Akvarijní rybičky pro začátečníky</h1>
+
+    </div>
+
       <div className='navWrapper'>
       <NavLink className="headerLink" to="/" activeClassName="active">
         O rybách
