@@ -7,7 +7,7 @@ export const Header = () => {
       <h1>Akvarijní rybičky pro začátečníky</h1>
       <div className='navWrapper'>
       <NavLink className="headerLink" to="/" activeClassName="active">
-        Domů
+        O rybách
       </NavLink>
       <NavLink className="headerLink" to="/FishAtlas" activeClassName="active">
         Atlas ryb
