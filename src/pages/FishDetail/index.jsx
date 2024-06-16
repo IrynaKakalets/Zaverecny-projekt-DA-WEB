@@ -18,11 +18,15 @@ export const FishDetail = () => {
     <>
       <Header />
       <div>
-        
         <div>
           <h1>{name}</h1>
           <h2>{latinName}</h2>
         </div>
+        
+        <div>
+          <img src={imgUrl}></img>
+        </div>
+
         <ul>
           {funFacts.map((item) => (
             <FunFactsItem key={item} funFactsList={item} />
@@ -33,15 +37,14 @@ export const FishDetail = () => {
             <DescriptionItem key={item} descriptionParagraph={item} />
           ))}
         </div>
-
-
-        <div>
-          <img src={imgUrl}></img>
-        </div>
-
-
       </div>
       <Footer />
     </>
   );
 };
+
+
+
+
+
+

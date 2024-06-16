@@ -8,3 +8,7 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
+li {
+  text-align: left;
+  margin: 20px;
+}
